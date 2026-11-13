@@ -1,0 +1,723 @@
+# 跳跳物理知识库目录
+
+## 概念条目（347 篇）
+
+先读概念条目：一篇汇齐老师各讲的讲法。
+
+- concepts/a-f-m-experiment.md　探究加速度与力、质量的关系　别名：平衡摩擦力、小车质量远大于小盘加砝码、M远大于m、a-1/M图像、取倒数、图线不过原点、图线弯曲
+- concepts/ac-four-values.md　交流电的四值（瞬时值、最大值、平均值、有效值）　别名：四值、平均值求电量、q=NΔΦ/R、电容器击穿、耐压值、平均电动势
+- concepts/ac-generation-expression.md　正余弦交流电的产生与瞬时表达式　别名：交流发电机、正弦交流电表达式、余弦交流电、e=NBSωsinωt、判断sin还是cos、你爸是我、瞬时值表达式、峰值Em=NBSω、转轴条件、直流与交流的区别
+- concepts/ac-graphs.md　交流电图像（e-t、u-t、i-t、Φ-t 图）　别名：i-t 图、u-t 图、e-t 图、Φ-t 图、双图问题、读周期频率角速度、电流方向改变次数、坐标轴倍率
+- concepts/ac-three-look.md　转轴不在中间或一半无磁场的 i-t 图（三看）　别名：三看、空窗期、转轴不在中间、一半区域无磁场、有界磁场中线框转动、自己画 i-t 图
+- concepts/acceleration.md　速度变化量与加速度　别名：速度变化量、Δv、变化率、速度变化率、a=Δv/Δt、定义式与决定式、有关与无关、速度改变量
+- concepts/ammeter-internal-external.md　电流表内接与外接　别名：内接法、外接法、大内大小外小、电流表分压、电压表分流
+- concepts/ampere-force-drive-or-drag.md　安培力是动力还是阻力（棒是不是电源）　别名：安培力是阻力、安培力是动力、棒是电源时安培力一定是阻力
+- concepts/ampere-force-left-hand-rule.md　安培力的方向与大小（左手定则、等效长度）　别名：安培力、左手定则、F=IBL、F=IBLsinθ、垂直判断、等效长度、有效长度、同向电流相吸、反向电流相斥
+- concepts/ampere-force-mechanics.md　含安培力的力学综合　别名：导体棒平衡、导轨上的导体棒、电磁炮、静摩擦墙头草、斜面导体棒、磁铁受力
+- concepts/ampere-impulse-qbl.md　安培力冲量 qBL（动量定理求电荷量、位移、时间）　别名：qBL、安培力冲量、动量定理求时间、qBL=mv0、F平均t=qBL
+- concepts/ampere-work-joule-heat.md　安培力做功与焦耳热（−W安=Q总、按电阻分配）　别名：安培力的功能关系、克服安培力做功等于焦耳热、-W安=Q总、按电阻分配、求焦耳热三步、消耗的电能
+- concepts/amperes-rule.md　安培定则（右手螺旋定则）　别名：右手螺旋定则、点叉表示法、叉进点出、跳氏安培定则、直线穿环、叉顺点逆、分子电流假说
+- concepts/angle-rail.md　角形导轨（V 形导轨、电流与速度成正比）　别名：V形导轨、三角形导轨、导轨不平行、单位长度电阻
+- concepts/arc-track.md　圆弧轨道模型　别名：圆弧槽、滑车、斜面体、小球冲上轨道、从最高点下滑、两个圆弧槽拼接、劈
+- concepts/associated-velocity.md　关联速度（绳杆连接）　别名：关联速度问题、绳端速度分解、人拉船、杆的关联速度、沿绳速度相等、牵连速度
+- concepts/atomic-physics-history.md　近代物理物理学史（原子结构与波粒二象性）　别名：物理学史、人名与贡献、道尔顿、汤姆孙、卢瑟福、密立根、普朗克、玻尔、查德威克
+- concepts/atomic-spectrum.md　光谱与氢原子光谱（线状谱、连续谱）　别名：线状谱、连续谱、氢原子光谱、原子光谱、四条可见光谱线、巴耳末系
+- concepts/autotransformer.md　自耦变压器　别名：一个线圈的变压器、滑动触头调压、原副线圈共用一个线圈
+- concepts/back-emf.md　反电动势（两电源同极相连、E总=E−E反）　别名：E反、总电动势、电源同极相连、速度差决定总电动势
+- concepts/ball-on-spring.md　小球落弹簧　别名：平衡位置、平衡点、最低点、蹦极、弹弓、接近平衡位置a越小v越大、小球落弹簧能量分析、平衡位置速度最大、标平衡位置、增等于减、曲线救国、弹簧垫
+- concepts/banked-turn.md　火车转弯（斜面转弯）　别名：斜面转弯模型、汽车转弯、规定速率、外轨内轨挤压、水平路面转弯、横向摩擦力为零
+- concepts/bar-magnet-flux.md　条形磁铁的磁通量（内减外、越靠近中间越大）　别名：条形磁铁磁通量比较、Φ内减Φ外、一内一外不可比、小圈磁通量大、线圈落过磁铁一侧
+- concepts/binary-star.md　双星模型　别名：双星、T F ω相等、a v r与质量成反比、麻辣烫公式、双中子星
+- concepts/binding-energy.md　结合能与比结合能　别名：结合能、比结合能、平均结合能、比结合能曲线、原子核稳定性
+- concepts/blackbody-radiation.md　黑体与黑体辐射　别名：绝对黑体、黑体辐射实验规律、黑体辐射选图
+- concepts/board-block.md　板块模型　别名：板块问题、滑块木板、分离型板块、共速型板块、最小板长、相对位移、叠块、板块模型能量分析、块冲上板、板的最小长度、共速、板块模型（地面光滑，动量视角）、相对路程、划痕长度、板块加碰撞、Q=fΔx
+- concepts/boat-crossing.md　小船过河　别名：最短时间过河、最短位移过河、一角法、船快取河宽水快除余弦、渡河问题
+- concepts/bohr-model.md　玻尔原子模型（轨道量子化、定态、跃迁三假设）　别名：玻尔理论、玻尔三个假设、轨道量子化、能级定态、能级、基态、激发态、氢原子能级图、玻尔理论的局限性
+- concepts/braking.md　刹车问题　别名：刹车陷阱、刹车时间、24m与25m、刹车痕迹、前车刹车
+- concepts/bullet-block.md　子弹打木块　别名：子弹射入木块、射入深度、沙箱、砂摆、子弹射穿、Q=FΔx、悬挂木块上摆
+- concepts/capacitor.md　电容器与电容　别名：电容、C=Q/U、C=εS/4πkd、决定式、充电与放电、法拉
+- concepts/capacitor-dynamic-analysis.md　电容器动态分析　别名：U 不变 Q 不变、静电计、板间电势、板间油滴、Q 不变只改 d 时 E 不变
+- concepts/capacitor-in-circuit.md　含电容器的电路　别名：电容器所在支路断路、充放电电荷量、ΔQ=|ΔU|C、电容器当电压表
+- concepts/celestial-mass-density.md　天体质量与密度计算　别名：求中心天体质量、求天体密度、ρ=M/V、球体积4/3πR³、贴近表面飞行r=R、只能求中心天体质量
+- concepts/centripetal-force.md　向心力与向心加速度　别名：向心力、向心加速度、F向=mv²/r、提供与需要、离心运动、向心运动、指心减背心、效果力、匀速圆周运动的特点、变加速运动
+- concepts/charge-elementary-charge.md　电荷、元电荷与电荷守恒　别名：元电荷、电荷量、净电荷量、带电的含义、电荷守恒定律、电中性
+- concepts/charge-flux-relation.md　电荷量与位移互求（q=ΔΦ/R总=BLx/R总）　别名：q=ΔΦ/R、q=BLx/R总、电荷量与位移成正比、q-x图像、线框电量、进出电量相同
+- concepts/charged-particle-circular-motion.md　带电粒子在匀强磁场中的匀速圆周运动　别名：qvB=mv²/r、r=mv/qB、T=2πm/qB、半径公式、周期公式、比荷
+- concepts/chase-meet.md　追及相遇　别名：追击相遇、距离公式、x=d0+x前-x后、共速、相遇次数、距离最值、恰好不相撞、潜力、v-t图追及相遇、交点时刻是两次相遇的中点
+- concepts/chord-length-formula.md　弦长公式　别名：l=2mvsinθ/qB、L=2Rsinθ、弦切角、同点进同点出
+- concepts/circle-sphere-optics.md　圆柱体与球中的光路（圆形介质）　别名：玻璃球、半圆形玻璃砖、玻璃半球、球冠、法线过圆心、对称轴、圆形亮区
+- concepts/circular-kinematics.md　圆周运动的描述（线速度、角速度、周期）　别名：线速度、角速度、v=ωr、ω=2π/T、周期频率转速、匀速圆周运动、弧度制、我是两排鼻涕
+- concepts/circular-multi-solution.md　圆周运动多解问题　别名：圆周运动的周期性、子弹穿圆筒、物体落在转动圆盘上、n+0.5圈
+- concepts/closed-circuit-ohms-law.md　闭合电路欧姆定律　别名：I=E/(R+r)、路端电压、内阻、内电压、开路电压、短路电流、E=U+Ir
+- concepts/collision.md　碰撞的分类与核心方程　别名：弹性碰撞、完全非弹性碰撞、一般碰撞、正碰、碰撞两阶段、碰撞核心方程、碰后粘在一起、E损
+- concepts/collision-possibility.md　碰撞可能性问题　别名：速度可能性、质量可能性、碰后速度范围、要么都在最左要么都在最右、碰后动能不增加
+- concepts/conical-pendulum.md　圆锥摆模型　别名：圆锥摆、等长摆、等高摆、倒锥筒、碗内小球、飞车走壁、更高更快更强、a=gtanθ
+- concepts/consider-gravity-or-not.md　是否考虑重力　别名：重力能不能忽略、微观粒子忽略重力、宏观物体考虑重力、微粒与粒子
+- concepts/constant-acceleration-single-rod.md　恒加速度单棒（外力表达式对比系数）　别名：恒加速单棒、匀加速单棒、F外=B²L²at/R总+ma、对比系数
+- concepts/constant-force-single-rod.md　恒力单棒（稳定速度 v稳）　别名：恒外力单棒、稳定速度、v稳、最大速度、F外=F安、有初速度的恒力单棒
+- concepts/conveyor-belt.md　传送带模型　别名：水平传送带、倾斜传送带、水平同向传送带、水平反向传送带、划痕长度、能否共速、底端轻放、顶端轻放、传送带能量分析、多消耗的电能、X带=2X物
+- concepts/cosmic-velocity.md　宇宙速度　别名：第一宇宙速度、7.9km/s、第二宇宙速度、第三宇宙速度、最小发射速度、最大环绕速度、发射速度与环绕速度、冲和绕
+- concepts/coulomb-force-equilibrium.md　带库仑力的平衡问题　别名：库仑力平衡、静态平衡、动态平衡、三角形法则、竖小平大、整体法
+- concepts/coulombs-law.md　库仑定律与点电荷　别名：库仑力、静电力、电场力、点电荷、F=kQq/r²、平方反比
+- concepts/crystal-amorphous.md　晶体、非晶体与液晶　别名：单晶体、多晶体、非晶体、各向异性、固定熔点、液晶
+- concepts/curvilinear-motion-condition.md　曲线运动的条件与轨迹判断　别名：做曲线运动的条件、力指凹侧、补圆法、先选点、锐加钝减直不变、曲线运动加减速判断、匀变速曲线运动
+- concepts/cut-and-fill-method.md　挖补法求场强　别名：挖补法、缺口圆环、正多边形中心场强、挖多补少
+- concepts/cut-fill-shell.md　割补法与球壳模型　别名：挖补法、球挖去小球求引力、球壳对内部引力为零、地球内部重力加速度、F=kr、滑梯图像
+- concepts/cyclotron.md　回旋加速器　别名：D 形盒、交流电周期等于磁场周期、最大动能与加速电压无关、加速次数
+- concepts/cylinder-liquid-column.md　液柱加气缸（缸柱三连）　别名：缸柱三连、缸柱联系、气缸连 U 形管、判压强只看活塞
+- concepts/cylinder-three-steps.md　气缸三连　别名：看不变 分析气体 分析活塞、气缸二连、气缸三连终极版、初末压强相同小技巧
+- concepts/decay-count.md　衰变次数计算（先质量数后电荷数、衰变图数跳）　别名：衰变次数、α衰变次数、β衰变次数、放出电子个数、衰变图
+- concepts/diffraction.md　光的衍射　别名：单缝衍射、圆孔衍射、圆盘衍射、泊松亮斑、明显衍射条件、衍射无条件
+- concepts/diffusion-brownian-motion.md　分子热运动：扩散现象与布朗运动　别名：热运动、扩散、布朗运动、位置连线不是轨迹、直接说明与间接反映
+- concepts/dispersion.md　光的色散　别名：色散、红到紫的规律、紫光偏折最多、根据光路判断颜色、复色光、彩色光带
+- concepts/displacement-difference.md　位移差公式　别名：Δx=aT²、xM-xN=(M-N)aT²、逐差法、砍一刀、相等时间间隔
+- concepts/displacement-distance.md　位移与路程　别名：位移的大小、单向直线运动、末位置坐标减初位置坐标
+- concepts/doppler-effect.md　多普勒效应　别名：接收频率、相互靠近频率增加、彩超、红移
+- concepts/double-coil.md　双圈问题（小圈感应与大圈感应、增扩减缩）　别名：大圈套小圈、大圈感应、小圈感应、增扩减缩、同心圆环、带电圆环旋转
+- concepts/double-cylinder.md　双气缸（等压双缸与不等压双缸）　别名：等压双缸、不等压双缸、两部分气体、体积之和不变、多部分气体
+- concepts/double-slit-interference.md　双缝干涉　别名：Δx=Lλ/d、条纹间距、路程差判断亮暗、光程差、偶数个半波长亮、白光双缝干涉、相干光源
+- concepts/double-slit-wavelength-experiment.md　用双缝干涉测量光的波长（实验）　别名：测波长实验、测量头、螺旋测微器读数、游标卡尺读数、除以n-1、分划板刻线不平行
+- concepts/dual-piston-cylinder.md　双活塞气缸　别名：两活塞连弹簧、两活塞连轻杆、刚性杆、H 型连杆活塞、单个分析求力 整体法求 pVT
+- concepts/dual-rod.md　双棒模型（无外力等距、不等距、恒力）　别名：双杆模型、两根棒、无外力双棒、不等距双棒、恒力双棒、速度差、共速、L1v1=L2v2
+- concepts/dynamic-circuit-analysis.md　电路动态分析（串反并同）　别名：串反并同、连圈、圈上串反圈外并同、开关问题
+- concepts/dynamic-equilibrium.md　动态平衡　别名：Y模型、晾衣杆模型、横不转、斜不转、定角转、不定角转、竖小平大、垂直最小、你水平我最大、相似三角形、缓慢
+- concepts/dynamics-framework.md　动力学分析思维框架（两类问题与目标转化法）　别名：已知力求运动、已知运动求力、牛顿第二定律两类问题、目标转化法、找方程、力学三大分支
+- concepts/eddy-current.md　涡流（利用与防止）　别名：涡电流、电磁炉、真空冶炼炉、硅钢片、金属探测器、无线充电
+- concepts/effective-cutting-length.md　有效切割长度（等效长度、投影长度）　别名：等效长度、等效切割长度、首尾相连、垂直速度方向的投影、杆两头长出的部分
+- concepts/effective-value.md　有效值　别名：有效值=最大值/√2、电表读数是有效值、220 V 与 311 V、没有特殊说明指有效值、热效应等效
+- concepts/ek-x-graph.md　动能-位移图像　别名：Ek-x图像、能量-位移图像、E-h图像、上升陡下落缓
+- concepts/elastic-force.md　弹力（方向与有无）　别名：拆除法、弹力方向、弹力有无、支持力、压力、拉力、接触不等于挤压
+- concepts/electric-current.md　电流（含微观表达式）　别名：电流强度、I=q/t、电流方向、环形电流等效电流、电流微观表达式、I=nqSv、I=nesv、载流子
+- concepts/electric-field-concept-map.md　电场概念关系图　别名：电场七大人物、电场是条河、力学阵营与能量阵营、电场概念融会贯通
+- concepts/electric-field-graphs.md　电场图像（φ-x 图与 E-x 图）　别名：φ-x 图像、E-x 图像、斜率表示场强、面积表示电势差
+- concepts/electric-field-lines.md　电场线与匀强电场　别名：电场线、电场线疏密、切线方向、匀强电场、电场线与 v-t 图、电场线不是轨迹
+- concepts/electric-field-strength.md　电场与电场强度　别名：场强、E=F/q、试探电荷、场源、电场强度的方向
+- concepts/electric-field-work.md　电场力做功　别名：W=Eqd、做功与路径无关、电场力做功正负、W=Uq
+- concepts/electric-gravity-combined-field.md　电场加重力场（上抛与竖直圆周）　别名：复合场、等效重力、化曲为直、等效最高点、最小动能、电场中的竖直上抛、电场中的竖直圆周
+- concepts/electric-pendulum.md　电摆问题　别名：电摆、同一悬点两带电小球、m_Ad_A=m_Bd_B
+- concepts/electric-potential.md　电势　别名：φ=Ep/q、沿电场线电势降低、电势的相对性、电势高低
+- concepts/electric-potential-energy.md　电势能与功能关系　别名：电势能、功能关系、W_AB=E_pA-E_pB、零势能面、电场力做正功电势能减小
+- concepts/electric-power-motor.md　电功率、纯电阻与电动机　别名：纯电阻、非纯电阻、P=I²R、额定功率、电动机、输入功率、输出功率、热功率、千瓦时
+- concepts/electric-then-magnetic-field.md　类平抛电场加磁场（拼接场）　别名：电磁拼接场、先电场后磁场、进入磁场的速度与弦切角、压轴题
+- concepts/electrification-electroscope.md　起电方式与验电器　别名：摩擦起电、接触起电、感应起电、静电感应、近异远同、先中和后平分、验电器、金属箔
+- concepts/electromagnetic-damping.md　电磁阻尼　别名：阻碍相对运动、磁铁落铜管、电流表铝框、衰减震动
+- concepts/electrostatic-equilibrium.md　静电平衡与等势体　别名：静电平衡、等势体、导体内部场强为零、枕形导体
+- concepts/em-induction-history.md　电磁感应物理学史　别名：科拉顿、法拉第实验、奥斯特、纽曼和韦伯、电磁感应与电流的磁效应
+- concepts/em-spectrum.md　电磁波谱　别名：电磁波排序、无线电波、红外线、紫外线、X 射线、γ 射线、频率交错重叠
+- concepts/emf-internal-resistance-experiment.md　测电源电动势和内阻　别名：伏安法测电动势、真值在上图似近表、阻安法、安阻法、伏阻法、1/I-R 图、1/U-1/R 图
+- concepts/emi-circuit.md　电磁感应中的电路问题（等效电源、电势差、路端电压）　别名：感应电动势加电路分析、等效电路图、电势差正负、电压表测谁、U_ab、棒两端电压
+- concepts/emi-one-click-three.md　电磁感应一键三连（电磁感应加力学的思维框架）　别名：一键三连、F安=B²L²v/R总、哔哩哔哩未必总燃、无脑起手式、求安培力和用安培力分开、电磁感应加力学分析
+- concepts/energy-conservation.md　能量守恒定律　别名：E初=E末、E增=E减、守恒思想、构建等式两个思路、单物体动能定理多物体能量守恒、外界输入能量与热量
+- concepts/energy-level-transition.md　能级跃迁与电离（hν=Em−En）　别名：跃迁、跃迁条件、能级差、电离、电离能、吸收光子与吸收电子、电子轰击、大减小
+- concepts/energy-quantum-photon.md　能量子与光子说（ε=hν、光强 P=nhν）　别名：能量子、量子化、能量量子化、光子说、光子能量、光强、光的功率、改变光强
+- concepts/equal-charges-field.md　等量同种与等量异种电荷的电场　别名：等量异种电荷、等量同种电荷、中垂线、连线、距离法比较电势
+- concepts/equal-forces-composition.md　等大力合成　别名：等大力夹角、60°根号3倍、90°根号2倍、120°合力等于分力、绳对滑轮的作用力
+- concepts/equipotential-surface.md　等势面　别名：等差等势面、等势面与电场线垂直、等势面疏密、等势面综合问题
+- concepts/equivalent-pendulum.md　等效单摆与等效重力加速度 g'　别名：项链摆、双线摆、圆弧轨道摆、等效重力摆、超失重单摆、电梯里的单摆、等效摆长、g'
+- concepts/f-kv.md　f=kv 阻力问题　别名：空气阻力正比于速度、阻力的冲量 kh、平均速率求冲量、往返运动阻力冲量
+- concepts/fall-cushion.md　下落缓冲问题　别名：缓冲、鸡蛋落地、安全气囊、安全带、铁锤打木桩、平均冲力、蹬地起跳
+- concepts/falling-frame.md　线框落磁场（恒力线框与恰好匀速）　别名：恒力线框、线框落磁场恰好匀速、安培力等于重力、B²L²v/R=mg、进出过程三特点、平抛组合体进磁场
+- concepts/faraday-law.md　法拉第电磁感应定律（E=nΔΦ/Δt）　别名：E=nΔΦ/Δt、磁通量变化率、感应电动势大小、Φ-t图斜率、E=nk、n匝线圈电源串联
+- concepts/field-from-three-potentials.md　由三点电势求匀强电场场强　别名：三点法、正交法、找等势线、分场强勾股定理
+- concepts/field-vs-potential.md　场强与电势的关系　别名：场强与电势无关、场强为零电势不一定为零、电势为零场强不一定为零、场强电势综合问题
+- concepts/field-work-energy-potential-synthesis.md　电场功能势综合问题（各物理量求法表）　别名：功能势综合、求电势差的方法、求电势能的方法、求电场力做功的四种方法、等势面移形换位
+- concepts/first-law-thermodynamics.md　热力学第一定律　别名：热一律、ΔU=Q+W、绝热 Q=0、导热良好 ΔU=0、已知条件翻译、状态方程加热一律综合
+- concepts/fission-fusion.md　重核裂变与轻核聚变（链式反应、核电站、氢弹）　别名：重核裂变、核裂变、链式反应、轻核聚变、核聚变、可控核聚变、人造太阳、控制棒、镉棒、核电站
+- concepts/fluid-impact.md　水柱冲击问题（流体问题）　别名：流体问题、气柱冲击、高压水枪、F=ρSvΔv、先设时间、小圆柱
+- concepts/force-analysis.md　受力分析　别名：受力分析顺序、研究对象、重力已知力弹力摩擦力、下滑力、漏力、空气阻力怎么处理
+- concepts/force-and-gravity.md　力与重力　别名：重心、力的三要素、力的图示、力的示意图、共点力、G=mg、重力方向竖直向下
+- concepts/force-composition.md　力的合成　别名：平行四边形定则、三角形定则、多边形定则、等效替代、先捏软柿子、多力合成、合力
+- concepts/force-decomposition.md　力的分解　别名：分力可能性、几组解、F垂直、已知合力和一个分力
+- concepts/forced-vibration-resonance.md　阻尼振动、受迫振动与共振　别名：固有频率、驱动力、共振曲线、阻尼振动、受迫振动
+- concepts/formula-selection.md　公式选取（黄金路径）　别名：黄金路径、选公式、有无t有无a、位移时间表达式、对应系数、x=5t+t²
+- concepts/frame-it-graph.md　线框 i-t 图像（排除法三招与分析法）　别名：i-t图像、i-x图像、排除法三招、B同i反向B反i同向、上下面积相等、X顺点逆、电流当成速度
+- concepts/frame-model.md　线框模型（进出磁场规律、匀速线框与无外力线框）　别名：线框穿磁场、匀速线框、无外力线框、n匝线框、进出Δv相同、拉金属框
+- concepts/free-fall.md　自由落体　别名：自由落体运动、重力加速度g、高度差问题、雨滴过窗户、落地前最后1s、h=½gt²
+- concepts/friction.md　摩擦力（滑动与静摩擦）　别名：滑动摩擦力、静摩擦力、最大静摩擦力、f=μN、动摩擦因数、谁弱帮谁、摩擦力的产生条件
+- concepts/friction-direction.md　摩擦力方向（平衡法、劫富济贫）　别名：劫富济贫、平衡法、假设法、同向叠块、相对运动方向、一动一静先分析动的
+- concepts/friction-heat.md　摩擦生热 Q=fx相　别名：Q=fx相、相对位移、第四组功能关系、一对摩擦力做功之和的绝对值等于Q、只有滑动摩擦生热
+- concepts/friction-work.md　摩擦力做功（含斜面等效法）　别名：摩擦力做功、斜面摩擦力做功等效法、投影越长做功越多、W=-μmgx、一对摩擦力做功、静摩擦力做功、往返分段算
+- concepts/galileo.md　伽利略的研究方法　别名：理想斜面实验、理想实验法、实验和逻辑推理相结合、合理外推、亚里士多德、冲淡重力
+- concepts/gas-inflation-deflation.md　充放气问题　别名：变质量气体、充气方程、放气方程、物质的量守恒、自然充气、压缩机充气、分装、气体质量之比
+- concepts/gas-pressure-microscopic.md　气体压强的微观解释　别名：T V p 的微观意义、撞击次数、分子密集程度、单位时间单位面积撞击次数
+- concepts/gas-work-sign.md　气体做功：W 的正负与求法　别名：外界对气体做功、气体对外界做功、看体积判正负、自由膨胀 W=0、一律先求外界对气体的功
+- concepts/golden-substitution.md　黄金代换（含天体加抛体）　别名：黄代、GM=gR²、地表万有引力等于重力、天体加抛体、星球表面平抛、g为桥梁、两个黄金代换相比
+- concepts/gravity-vs-gravitation.md　重力与万有引力的关系（赤道两极）　别名：赤道两极问题、重力是万有引力的分力、北大南大、g极大于g赤、弹簧秤读数
+- concepts/gravity-work-potential-energy.md　重力做功与势能（重力势能、弹性势能）　别名：重力做功、W_G=mgh、重力势能、零势面、弹性势能、Ep=½kx²、势能力做功等于势能减少
+- concepts/half-life.md　半衰期（N=(1/2)^n N0）　别名：T½、剩余原子数、剩余量、半衰期与外部因素无关、衰变曲线
+- concepts/half-sqrt2-amplitude.md　√2/2 A 与 T/8 特殊时刻　别名：二分之根号二 A、八分之一周期、T/8、中间时刻位移
+- concepts/hall-effect.md　霍尔效应　别名：霍尔元件、霍尔电压、U_H=IB/nqd、载流子、霍尔系数
+- concepts/high-orbit-low-speed.md　卫星比较（高轨低速大周期）　别名：高轨低速大周期、低轨高速小周期、卫星比较问题、同一中心天体才能比
+- concepts/hooke-law.md　胡克定律　别名：劲度系数、弹簧弹力、F=kx、形变量、捡软柿子捏、只看弹簧一头、弹簧秤示数
+- concepts/ideal-gas-graphs.md　理想气体图像　别名：p-V 图、p-T 图、V-T 图、割线斜率的倒数、矩形面积、图像转换
+- concepts/ideal-gas-law.md　理想气体状态方程　别名：pV/T=C、理想气体、三大气体实验定律、玻意耳定律、查理定律、盖-吕萨克定律、约掉不变量
+- concepts/ideal-transformer.md　理想变压器的基本规律　别名：变压器、电压比等于匝数比、电流比等于匝数反比、P1=P2、升压必降流、升压变压器、降压变压器、变压器的三损、互感现象
+- concepts/impulse.md　冲量与 F-t 图像　别名：I=Ft、N·s、F-t 图面积、冲量与功的区别、有力有时间就有冲量、上减下
+- concepts/incline-equilibrium.md　斜面平衡分析　别名：重力分解、Gsinα、Gcosα、sin顺cos垂、斜面问题、f=mgμcosα、f=mgsinα
+- concepts/incline-projectile.md　斜面平抛　别名：平抛落斜面、抛出点在斜面上、平抛垂直打斜面、拼接斜面、tv之比n不变位移n方、一落一不落、跳台滑雪
+- concepts/induced-current-condition.md　感应电流产生的条件　别名：产生感应电流的条件、回路闭合且磁通量变化、磁生电的条件
+- concepts/induced-emf-sources.md　感生电动势与动生电动势（感应电动势的两大来源）　别名：感应电动势的两大原因、非静电力、涡旋电场、感生电场、洛伦兹力的分力、感生动生都有
+- concepts/inductive-capacitive-reactance.md　感抗和容抗　别名：感抗、容抗、通直流阻交流、通交流阻直流、电感电容等效成电阻、频率越高感抗越强
+- concepts/instrument-reading.md　仪器读数（游标卡尺、螺旋测微器、电表）　别名：游标卡尺、螺旋测微器、估读、分度值、电表读数、欧姆档读数
+- concepts/instrument-transformer.md　互感器　别名：电压互感器、电流互感器、测高压电
+- concepts/internal-energy.md　内能　别名：内能的影响因素、气体内能只看温度、晶体熔化内能增大、分子总动能加总势能
+- concepts/internal-force-formula.md　连接体内力公式　别名：内力公式、F内=m未/m总·F、m未、M位、连接体、带滑轮的连接体、叠块连接体
+- concepts/isochronous-circle.md　等时圆　别名：等时圆模型、等时葫芦、构造等时圆、t=√(4R/g)
+- concepts/kepler-laws.md　开普勒三定律　别名：开普勒第一定律、开普勒第二定律、开普勒第三定律、近快远慢、等时等面、a³/T²=k、同中心同k、半长轴
+- concepts/kinetic-energy-theorem.md　动能与动能定理　别名：动能、Ek=½mv²、动能定理、W合=ΔEk、动能定理三步走、两个框、末减初
+- concepts/lagrange-point.md　拉格朗日点　别名：第二拉格朗日点、L1 L2、鹊桥中继星、与大环绕体角速度相同
+- concepts/lamp-iv-curve-experiment.md　描绘小灯泡的伏安特性曲线　别名：小灯泡伏安特性、分压加外接、交点法求实际功率、两灯串联并联
+- concepts/lc-oscillation.md　LC 振荡电路　别名：振荡电路、震荡电路、振荡电流、T=2π√(LC)、电流增大对应放电、电场能与磁场能转化
+- concepts/lenz-law.md　楞次定律（阻碍、增反减同、三步判电流方向）　别名：增反减同、阻碍不是阻止、Φ原→B感→I感、叉顺点逆、三大懒人定律
+- concepts/lenz-repel-attract.md　增斥减引（来拒去留）　别名：来拒去留、跑路、阻碍相对运动、楞次定律推论之力与运动
+- concepts/lenz-shrink-expand.md　增缩减扩（收缩扩张趋势）　别名：改变自己、缩扩趋势、收缩趋势、扩张趋势
+- concepts/liquid-column-pressure.md　液柱压强：核心公式、两线法与蛇形管　别名：p上+ρgh=p下、液柱核心公式、两线法、蛇形管、连通液体同一水平面压强相等、cmHg、薄膜法
+- concepts/liquid-column-problems.md　液柱三连：直管与 U 型管液柱大题　别名：液柱三连、直管液柱、U 型管液柱、旋转玻璃管、液面相平、竖直转平放
+- concepts/list-method-equipotential.md　列表法解等差等势面问题　别名：列表法、动能成等差数列、电势能加动能守恒
+- concepts/loop-current-magnet.md　环形电流与条形磁铁（等效磁铁）　别名：环形电流等效条形磁铁、俯视法、同斥异吸、线圈怎么动
+- concepts/lorentz-force.md　洛伦兹力　别名：f=qvB、洛伦兹力方向、洛伦兹力不做功、安培力是洛伦兹力的合力
+- concepts/magnetic-critical-rotating-circle.md　磁场临界问题：旋转圆　别名：旋转圆、粒子源向各方向发射、扫过区域面积、射出点覆盖范围、最短弦最短时间
+- concepts/magnetic-critical-scaling-circle.md　磁场临界问题：放缩圆　别名：放缩圆、恰好不飞出就是相切、双临界、速度范围、最长最短时间
+- concepts/magnetic-field-induction.md　磁场、磁感线与磁感应强度　别名：磁感线、地磁场、磁感应强度、B=F/IL、特斯拉、匀强磁场、小磁针 N 极方向
+- concepts/magnetic-field-superposition.md　磁场叠加　别名：磁感应强度合成、B 的叠加、叉顺点逆、合磁场为零
+- concepts/magnetic-flux.md　磁通量（Φ=BS、有效面积、匝数无关、方向与叠加抵消）　别名：磁通、Φ=BS、谁斜动谁、有效面积、磁通量与匝数无关、磁通量方向、磁通量正负、同向叠加反向抵消、挂面类比
+- concepts/magnetic-flux-change.md　磁通量变化量 ΔΦ（末减初、带正负、转动的面）　别名：ΔΦ、磁通量改变量、末减初、手心手背标面、转180度磁通量变化
+- concepts/magnetic-trajectory-center-radius.md　磁场轨迹问题（画轨迹、定圆心、找半径）　别名：定圆心、找半径、圆心角、弦切角、优弧劣弧、多大角进多大角出、圆形磁场沿半径入沿半径出、平行边界磁场
+- concepts/mass-energy-defect.md　质能方程与质量亏损（E=mc²、ΔE=Δmc²）　别名：质能方程、E=mc²、质量亏损、Δm、释放核能、1u=931MeV、质量是能量的度量
+- concepts/mass-spectrometer.md　质谱仪　别名：加速电场加磁场、比荷越大半径越小、质谱仪加速度选择器
+- concepts/matter-wave.md　物质波（德布罗意波长 λ=h/p）　别名：德布罗意波、德布罗意波长、λ=h/p、实物粒子的波动性、电子衍射
+- concepts/maximum-power.md　最大功率问题与等效电源法　别名：输出功率最大、R=r、P=E²/4r、等效电源法、滑变功率最大、定值电阻功率最大
+- concepts/mean-velocity-method.md　均速法（中间时刻速度）　别名：均速法、中时速度、中位速度、中间时刻瞬时速度、平均速度等于中间时刻瞬时速度、线段图
+- concepts/mechanical-energy-conservation.md　机械能与机械能守恒定律　别名：机械能、机械能守恒条件、只有重力或系统内弹力做功、守恒是时刻不变、摩擦生热必不守恒、换点法、看清以谁为系统
+- concepts/mechanical-wave-basics.md　机械波的形成与传播规律　别名：机械波形成条件、横波、纵波、质点不随波迁移、学习前一个质点、传播规律三条
+- concepts/meter-conversion-calibration.md　电表改装与校准　别名：表头、改装电压表、改装电流表、R=r_g(n-1)、R=r_g/(n-1)、电表校准、双量程
+- concepts/meter-range-wiring.md　电表量程选择与实物图连接　别名：量程选择、选器材、实物图连线、画圈法
+- concepts/mole-calculation.md　摩尔类计算（阿伏伽德罗常数）　别名：阿伏伽德罗常数、N_A、摩尔质量、摩尔体积、分子占据体积、气体分子平均间距、分层算
+- concepts/molecular-force-potential.md　分子作用力与分子势能　别名：分子力、F-r 图、Ep-r 图、平衡位置 r0、补图、引力斥力、分子势能最小
+- concepts/molecular-speed-distribution.md　分子速率分布规律　别名：速率分布曲线、峰值右移、面积等于 1、两头少中间多、正态分布
+- concepts/momentum.md　动量与动量变化量　别名：p=mv、Δp、动量是矢量、动量与动能、Ek=p²/2m、末减初
+- concepts/momentum-conservation.md　动量守恒定律（守恒条件与列式）　别名：动量守恒条件、三种守恒情况、某一方向动量守恒、动量近似守恒、内力远大于外力、动量守恒与机械能守恒的区别、系统内力外力、列式三步、速度方向未知先写成正
+- concepts/momentum-theorem.md　动量定理　别名：Ft=Δp、合外力的冲量等于动量变化量、平均作用力、动量定理与动能定理怎么选、力和时间同时出现、全程动量定理
+- concepts/motion-composition.md　运动的合成与分解　别名：合运动与分运动、独立性与等时性、时间是纽带、两直线运动的合成、三种快捷方式、无a必直线、无v0必直线、比值相等必直线、蜡块实验
+- concepts/motional-emf.md　动生电动势 E=BLv（切割的判断与公式）　别名：E=BLv、导体切割磁感线、捅和扫、背LV包、切割磁感线电动势
+- concepts/moving-hits-static.md　动碰静　别名：大撞小一起走、小撞大小反弹、等质量换速度、牛顿摆、交换速度
+- concepts/multi-body-mechanical-energy.md　多物体机械能守恒（绳、杆连接体）　别名：一增等于一减、滑轮连接体、环杆模型、斜杆加滑轮、杆连两球、内力做功不等于守恒
+- concepts/multi-process.md　多过程问题　别名：速度是桥梁、速度不能突变、末速度等于下一段初速度、先求加速度、撤去外力
+- concepts/multi-process-split.md　多过程拆成一前一后　别名：一前一后、过程拆分、碰撞时不管弹簧、时间极短才能拆、全过程守恒判断、选系统与起点
+- concepts/multi-process-work-energy.md　动能定理解多过程问题　别名：全程法、对全程列动能定理、来回搓问题、0V0问题、至少做多少功、沙坑问题
+- concepts/multi-secondary-transformer.md　多副线圈变压器　别名：多个副线圈、n1I1=n2I2+n3I3、电流反比关系失效、谁接电源谁是原线圈
+- concepts/multimeter-ohmmeter.md　多用电表与欧姆表　别名：欧姆表原理、中值电阻、欧姆调零、机械调零、红进黑出、换档、多用电表读数
+- concepts/near-earth-geosync-satellite.md　近地卫星与同步卫星　别名：近地卫星、同步卫星、地球静止轨道卫星、r约6.6R、T=24h、地表小捷径
+- concepts/neutral-plane.md　中性面与平行面　别名：中性面、平行面、磁通量与电动势不同时最大、电流改变方向的位置、磁通量变化率
+- concepts/newton-first-law.md　牛顿第一定律与惯性　别名：惯性定律、惯性、牛一律、力不是维持运动的原因、力是改变运动状态的原因
+- concepts/newton-second-law.md　牛顿第二定律　别名：F=ma、牛二、牛二律、合外力、加速度决定式、大力减小力
+- concepts/newton-third-law.md　牛顿第三定律　别名：作用力与反作用力、相互作用力、平衡力与相互作用力的区别、牛三、压力不是重力
+- concepts/no-force-single-rod.md　无外力单棒　别名：初速度单棒、无外力单棒运动模式、加速度减小的减速最终停下
+- concepts/non-point-mechanical-energy.md　非质点机械能守恒（链条与U形管）　别名：铁链下滑、链条、U形管液柱、重心高度变化、只看前后不一样的部分
+- concepts/nuclear-atom-model.md　原子的核式结构与 α 粒子散射实验　别名：核式结构模型、卢瑟福原子模型、α粒子散射实验、枣糕模型、汤姆孙模型、原子结构模型
+- concepts/nuclear-equation-conservation.md　核反应双守恒（质量数守恒、电荷数守恒）　别名：双守恒、质量数守恒、核电荷数守恒、电荷数守恒、核反应方程配平、认未知粒子、质量不守恒质量数守恒
+- concepts/nuclear-reaction-types.md　四种核反应方程的识别（衰变、裂变、聚变、人工转变）　别名：核反应类型、核反应识别、人工转变、人工核转变、质子的发现、中子的发现、左边单核是衰变
+- concepts/nucleus-composition.md　原子核的组成与原子核符号（质量数、核电荷数、同位素）　别名：原子核符号、AZX、质量数、核电荷数、核子、质子、中子、同位素
+- concepts/oblique-projectile.md　斜抛运动　别名：斜上抛、抛体运动、最高点速度、最远射程45度、斜抛对称性
+- concepts/oil-film-experiment.md　用油膜法估测分子大小　别名：油膜法、d=V/S、单分子油膜、数格子、油酸酒精溶液
+- concepts/orbit-core-equations.md　环绕模型核心方程与天体比例问题　别名：万有引力提供向心力、核心方程组、环绕模型、天体比例问题、五选二、六选三、天体列表法、天体估算
+- concepts/orbit-transfer.md　卫星变轨　别名：变轨、加速离心减速向心、椭圆转移轨道、对接、同一点比速度、喷气方向
+- concepts/orthogonal-decomposition.md　正交分解　别名：建系、建系原则、先破后立、沿斜面垂直斜面建系、水平竖直建系
+- concepts/oscilloscope.md　示波器（加速加偏转、打屏、图像）　别名：示波器、示波管、打屏距离、五点法、荧光屏图像、灵敏度
+- concepts/overweight-weightlessness.md　超重与失重　别名：视重、完全失重、电梯、下蹲起立、F-t图
+- concepts/parallel-glass-slab.md　平行玻璃砖　别名：长方体玻璃砖、出射光平行入射光、侧移
+- concepts/parallelogram-experiment.md　验证平行四边形定则　别名：理论作图值与实际测量值、等效替代法、橡皮条、结点位置不变、F和F'
+- concepts/particle.md　质点　别名：理想模型、看成质点的条件、非质点、钉一头、钉死一头
+- concepts/pendulum-measure-g.md　用单摆测重力加速度　别名：单摆测 g、l-T² 图像、图像法误差分析、秒表读数、从平衡位置计数
+- concepts/periodic-electric-field.md　带电粒子在周期性电场中的运动　别名：周期场、交变电压、U-t 图转 v-t 图、往复运动
+- concepts/person-boat.md　人船模型　别名：人船、气球载人下滑、路程之比等于质量反比、s人+s船=L
+- concepts/photocurrent-circuit.md　光电管电路与光电流（光电流三问、正反向电压、饱和光电流）　别名：光电管、光电流、光电流三问、正向电压、反向电压、饱和光电流、Im、没有光电流的原因、影响光电流的因素
+- concepts/photoelectric-effect.md　光电效应现象与实验规律（截止频率）　别名：光电效应、截止频率、极限频率、光电子、光电效应能否发生、一个电子吸收一个光子
+- concepts/photoelectric-equation.md　光电效应方程与逸出功（Ek=hν−W0）　别名：爱因斯坦光电效应方程、逸出功、最大初动能、hν0=W0、ν0=W0/h
+- concepts/photoelectric-graphs.md　光电效应图像（Ek-ν 图、Uc-ν 图、I-U 图）　别名：Ek-ν图、Uc-ν图、I-U图、光电效应三种图像、密立根实验图
+- concepts/photon-momentum.md　康普顿效应与光子动量（p=h/λ）　别名：康普顿效应、光子动量、p=h/λ、p=E/c
+- concepts/piston-pressure.md　气缸活塞求封闭气体压强　别名：活塞受力分析、求压强三步、pS=p0S+mg、活塞两边压强相等、气缸的底当活塞
+- concepts/point-charge-field-superposition.md　点电荷电场与场强叠加　别名：点电荷场强、E=kQ/r²、场强叠加、场强合成、决定式
+- concepts/polarization.md　光的偏振　别名：偏振片、自然光与偏振光、光是横波、3D 电影、摄影偏振镜
+- concepts/potential-difference.md　电势差与 W=qU　别名：电势差、电压、U_AB、W=qU、电势差从高往低写
+- concepts/power.md　功率（平均功率与瞬时功率）　别名：平均功率、瞬时功率、P=W/t、P=Fvcosθ、重力瞬时功率P=Gvy、0到0问题
+- concepts/power-transmission.md　远距离输电　别名：输电、输电线损耗、P线=I²R线、先升压再降压、特高压输电、三段电路
+- concepts/prism.md　三棱镜　别名：顶角、偏角、偏向角、大1小1大2小2、直角三棱镜、等腰直角棱镜
+- concepts/projectile-critical.md　平抛临界（过网与界内）　别名：平抛临界问题、擦网、过网条件、排球过网、乒乓球发射机
+- concepts/projectile-inferences.md　平抛两个重要推论　别名：速度角与位移角、tan速度角=2tan位移角、速度反向延长线过水平位移中点、平抛二级结论
+- concepts/projectile-like-deflection.md　类平抛（带电粒子在电场中的偏转）　别名：类平抛、偏转、侧移距离、偏转角、水平竖直分开列
+- concepts/projectile-motion.md　平抛运动（基本规律与轨迹比较）　别名：平抛、水平竖直分开算、平抛决定因素、高度大时间长、共起点大压小、平抛相遇、平抛轨迹方程
+- concepts/pure-induced-emf.md　纯感生问题（B 变 S 不变、E=nSk、B-t 图）　别名：感生电动势计算、E=nSΔB/Δt、E=nSk、B-t图、B均匀变化、B的变化率
+- concepts/quasi-collision.md　类碰撞模型与共速　别名：类碰撞、等效成碰撞、共速时刻、最高点共速、形变量最大时共速、四大类碰撞模型、类碰撞总表
+- concepts/quasi-projectile.md　类平抛　别名：斜面类平抛、类平抛运动、合力恒定且垂直初速度
+- concepts/radioactive-decay.md　α 衰变与 β 衰变　别名：衰变、α衰变、β衰变、衰变方程、衰变实质、β+衰变、正电子、没有γ衰变
+- concepts/recoil.md　反冲　别名：反冲模型、火箭喷气、人跳车、抛货物、一分为二、反冲前静止、反冲前有速度、避免相撞恰好共速
+- concepts/recoil-nucleus-in-field.md　反冲核在磁场中的运动（内切外切）　别名：反冲核、磁场中衰变、衰变轨迹、内切圆外切圆、半径与电荷量成反比
+- concepts/reduced-mass.md　折合质量法　别名：E损=½·m1m2/(m1+m2)·v相²、同向减反向加、完全非弹性碰撞损失的机械能、相对速度
+- concepts/reference-frame.md　参考系与坐标系　别名：参照物、坐标系、一维坐标系、谁不动谁是参考系、相对运动
+- concepts/refraction-index.md　折射定律与折射率　别名：折射率、n=sin空气角/sin介质角、sin大比sin小、空气角与介质角、v=c/n、光密介质与光疏介质、相对折射率、大角大速、n=λ真空/λ介质
+- concepts/refraction-tir-geometry.md　折射与全反射综合题（几何光学作图导角）　别名：几何光学、画光路图、导角、有光出射区域、分水岭光线、求亮区半径、几何光学小结论
+- concepts/refractive-index-experiment.md　测定玻璃的折射率（插针法）　别名：插针法、画圆法、测折射率实验、插针遮挡、界面画宽了折射率偏小
+- concepts/reinforce-weaken-points.md　振动加强点与减弱点的判断　别名：路程差法、峰峰点谷谷点谷峰点、步调相同相反、数加强点个数、圆上加强点
+- concepts/resistance-law.md　电阻定律与电阻率　别名：R=ρL/S、电阻率、决定式、拉长拍扁、等体积变形
+- concepts/resistance-series-parallel-iv.md　电阻、串并联与伏安特性曲线　别名：R=U/I、串联、并联、上乘下加、伏安特性曲线、割线斜率、线性元件、非线性元件
+- concepts/resistivity-experiment.md　测金属丝电阻率实验（含误差分析）　别名：伏安法测电阻率、ρ=πd²R/4l、系统误差、偶然误差、异常点舍去
+- concepts/resultant-range.md　合力范围　别名：合力的取值范围、三个力合力最小值、合力与分力的关系、构造例子法
+- concepts/reverse-thinking.md　逆向思维（等效思维）　别名：等效思维、逆向思维、末速度为0的匀减速看成初速度为0的匀加速、全程等效
+- concepts/rheostat-divider-limiter.md　滑动变阻器的分压式与限流式　别名：分压式、限流式、从零开始、滑片初始位置、调节范围
+- concepts/right-hand-rule.md　右手定则（判动生电流方向、左右手怎么分）　别名：右手定则、左手管力右手管其余、掌心迎磁感线、判断电源正负极
+- concepts/rms-method.md　方均根法与残波　别名：方均根法、均方根、残波、方波有效值、混合交流电有效值、曲线救国、T/4 残波、T/2 残波
+- concepts/rope-rod.md　绳杆模型（活绳死绳活杆死杆）　别名：活绳、死绳、活杆、死杆、铰链、滑轮、轻绳轻杆、同一根绳拉力处处相等
+- concepts/rotating-cutting.md　旋转切割与圆盘模型（E=½BL²ω）　别名：旋转切割、圆盘模型、法拉第圆盘、E=BL²ω/2、多棒旋转切割、螺旋桨
+- concepts/round-field-minimum-area.md　圆形磁场最小面积　别名：最小磁场面积、以弦为直径的圆、速度偏转角、弦切角等于偏转角一半
+- concepts/same-side-method.md　同侧法　别名：判断波振方向、已知传播方向求振动方向、已知振动方向求传播方向
+- concepts/satellite-chase.md　卫星追及相遇与行星冲日　别名：天体追及相遇、相距最近最远、多走2π、行星冲日、冲日间隔
+- concepts/second-third-law-entropy.md　热力学第二、第三定律与熵　别名：热二律、克劳修斯表述、开尔文表述、第二类永动机、第一类永动机、熵增原理、绝对零度、自发热过程
+- concepts/self-induction.md　自感现象与自感电动势（E=LΔI/Δt、自感系数）　别名：自感、互感、自感电动势、自感系数、电感、亨利、自感电流方向
+- concepts/self-induction-circuit.md　通断电自感（灯泡亮暗与闪亮判断）　别名：通电自感、断电自感、灯泡闪亮、线圈当电阻、线圈当电源、混联电路自感、R与RL比较
+- concepts/shm-motion-process.md　简谐运动中位移、速度、加速度的变化　别名：运动过程分析、近平衡 v 增 a 减、两个关键位置、速度和加速度不同时最大
+- concepts/shm-symmetry.md　简谐运动的对称性　别名：对称点、关于平衡位置对称的点、时间对称性、经过两点的两种可能
+- concepts/simple-harmonic-motion.md　简谐运动与回复力　别名：简谐振动、回复力、平衡位置、F=-kx、弹簧振子、全振动、振幅、按住松手法
+- concepts/simple-pendulum.md　单摆与周期公式　别名：T=2π√(l/g)、单摆周期、摆长、等时性、摆钟、小于 5°
+- concepts/single-rod-with-capacitor.md　有电容器的单棒（充电式与放电式）　别名：含电容器的单棒、含容单棒、充电式、放电式、电磁轨道炮、U_C=BLvm
+- concepts/single-rod-with-source.md　有电源的单棒　别名：含电源的单棒、电动汽车原理、E=BLvm、q=mE/B²L²
+- concepts/solvability-know-two.md　可求解问题（知二求所有）　别名：知二求所有、能否求出、六个量选两个、角速度和周期只算一个
+- concepts/source-emf.md　电源与电动势　别名：电动势、非静电力、举高高、E=W/q、电动势与电压的区别
+- concepts/source-power-efficiency.md　电源的功率与效率　别名：总功率 EI、输出功率、内阻消耗功率、电源效率、η=U/E、η=R/(R+r)
+- concepts/special-triangles.md　特殊角三角函数与三边比例　别名：三边比例法、3:4:5、1:2:√3、37度、53度、30度、sin37°、导角
+- concepts/speed-up-slow-down.md　加减速判断（同加反减）　别名：同加反减、离加近减、加速度减小的加速、核心三句话、av同向、av反向
+- concepts/spring-experiment.md　探究弹力与弹簧伸长的关系　别名：验证胡克定律、F-x图、F-L图、尾巴翘了、图像法、描点作直线
+- concepts/spring-model.md　弹簧模型（动量）　别名：弹簧连接两物块、最大弹性势能、压缩最短、分离速度、靠墙弹簧、碰撞加弹簧、王八筒模型
+- concepts/spring-oscillator-dynamics.md　弹簧振子力学综合　别名：简谐运动加力学综合、竖直弹簧振子、斜面弹簧振子、叠放物块最大振幅、整体的 k、始终接触不分离
+- concepts/spring-separation.md　弹簧分离　别名：分离瞬间、将分未分、N=0、a相同、刚好分离
+- concepts/spring-two-loads.md　弹簧两次受力　别名：一压一拉、两次都压缩、两次都拉伸、弹簧一端移动的距离、F1+F2=kΔx、T1-T2=kx
+- concepts/static-equilibrium.md　静态平衡　别名：平衡状态、合力为零、静力学分析思维框架、共点力平衡、匀速当静止、静态平衡三步
+- concepts/stopping-voltage.md　遏止电压（Uc·e=hν−W0）　别名：遏制电压、截止电压、Uc、UC、反向截止电压
+- concepts/sudden-change.md　突变问题　别名：剪断绳子瞬间、弹簧弹力不能突变、绳子弹力可以突变、瞬时加速度、抽出木板
+- concepts/superposed-fields-motion.md　叠加场中的直线运动与圆周运动　别名：叠加场、拼接场、复合场、匀速直线运动、重力与电场力等大反向
+- concepts/surface-tension-wetting.md　表面张力、浸润与毛细现象　别名：液体表面张力、浸润、不浸润、毛细现象、附着层
+- concepts/system-newton-second-law.md　对系统列牛顿第二定律　别名：系统牛二、对系统列牛二、加速度不同的多体、箱子套环
+- concepts/target-transformation.md　目标转化法（从问题倒推）　别名：目标转化法、从问题入手、缺什么求什么、逆向推理、从后往前写、目标转化法（从问题入手）、倒推法、不断转移目标、没思路时怎么办
+- concepts/temperature-average-kinetic-energy.md　温度与分子平均动能（含热力学温度）　别名：温度的微观意义、平均动能、热力学温度、温标、T=t+273、开尔文
+- concepts/terminal-velocity.md　终端速度　别名：收尾速度、阻力随速度增大而增大、雨滴下落、跳伞
+- concepts/terminal-voltage-current-graph.md　路端电压与电流关系图像　别名：电源 U-I 图、纵截距是电动势、斜率是内阻、纵轴不从零开始、电源与电阻 U-I 图交点
+- concepts/thin-film-interference.md　薄膜干涉　别名：肥皂膜、验平、检验平整度、头凹屁股凸、增透膜、增反膜、路程差 2d
+- concepts/three-brothers.md　三兄弟比较问题　别名：赤道物体近地卫星同步卫星比较、同步卫星在中间、三兄弟
+- concepts/three-charge-equilibrium.md　三点电荷平衡　别名：两同夹异、两大夹小、近小远大、三电荷共线平衡
+- concepts/three-force-equilibrium.md　三力平衡　别名：三力平衡三角形定则、力三角形、绳结问题、以结为对象、哪根绳先断、平移成直角三角形
+- concepts/three-rays.md　三种射线（α、β、γ 的性质与在电磁场中的偏转）　别名：α射线、β射线、γ射线、电离能力、贯穿本领、电大电离大电小贯穿强、判断射线种类、射线在磁场中偏转、射线在电场中偏转
+- concepts/ticker-tape-experiment.md　纸带实验（探究小车速度随时间变化）　别名：打点计时器、纸带、计数点、逐差法、砍一刀、电火花打点计时器、相邻两点间有4个点未画出
+- concepts/time-and-moment.md　时间与时刻　别名：时间间隔、第n秒内、前n秒内、时间轴、令n=1
+- concepts/total-internal-reflection.md　全反射与临界角　别名：全反射、临界角、sinC=1/n、全反射的两个条件、光纤、光导纤维、海市蜃楼、上现蜃景、下现蜃景
+- concepts/trajectory-in-electric-field.md　电场线、等势面加轨迹问题　别名：轨迹问题、三步法、力指凹侧、选点画力比速度、点电荷等势面加轨迹
+- concepts/transformer-circuit.md　变压器与电路综合计算（含原线圈电路有电阻）　别名：U1→U2→I2→I1、思维框架、原线圈电路有电阻、原线圈串电阻、U0=U1+I1R0、设一份电流为未知量、灯泡正常发光求匝数比
+- concepts/transformer-dynamic-analysis.md　带变压器的电路动态分析　别名：串反并同、划掉变压器、路端电压不变、开关等效成电阻、用电器增加、自并联结构
+- concepts/transformer-turns-change.md　变匝数问题　别名：只改匝数、滑片调匝数、U1 不变、先 U2 再 I2 再 P2 再 P1 再 I1、自己编数法
+- concepts/transition-line-count.md　跃迁频率数量（一群 C_n^2、一个 n−1）　别名：能发出几种频率的光、谱线条数、一群氢原子、大量氢原子、一个氢原子、跃迁与光电效应综合
+- concepts/transmission.md　传动问题（同轴与共带）　别名：同轴传动、共带传动、皮带传动、齿轮传动、摩擦传动、列表法、让我为爱
+- concepts/turning-around.md　运动方向改变（掉头）　别名：掉头、拐点、穿t轴必掉头、离出发点最远、运动方向改变
+- concepts/turntable-model.md　圆盘模型　别名：转盘模型、无绳圆盘、有绳圆盘、滑动临界、绳有力临界、一起滑临界、质心法、外面的先滑
+- concepts/u-equals-ed.md　匀强电场中 U=Ed　别名：E=U/d、沿线距离、中点电势等于两端平均、电势差之比等于长度之比、非匀强电场等距问题
+- concepts/uniform-acceleration-formulas.md　匀变速直线运动基本公式　别名：速度时间公式、位移时间公式、速度位移公式、平均速度公式、无t公式、无a公式、匀变速直线运动
+- concepts/uniform-field-linear-motion.md　带电体在匀强电场中的直线运动与加速　别名：匀强电场动力学、静止加速、Uq=½mv²、a=qU/md、比荷、F=Eq 恒力
+- concepts/unit-system.md　力学单位制　别名：国际单位制、基本单位、导出单位、力学基本物理量、1N=1kg·m/s²
+- concepts/universal-gravitation-law.md　万有引力定律　别名：F=Gm1m2/r²、引力常量G、卡文迪许扭秤、球心距、月地检验、天体坑点表面距离加半径
+- concepts/v-t-graph.md　v-t图　别名：速度时间图像、面积表示位移、斜率表示加速度、S上减S下、a-t图、微元法
+- concepts/variable-force-work.md　动能定理求变力做功　别名：变力做功、六大变力场景、W=Pt、选过程让弹力做功抵消
+- concepts/vector-scalar-sign.md　矢量与标量（正负号与规定正方向）　别名：矢量代数化、规定正方向、一维矢量、真方向与假方向、正负号的三种用途、匀减速a带负号
+- concepts/vehicle-start.md　机车启动　别名：恒功率启动、恒加速度启动、额定功率、最大速度vm=P/f、牵引力、P=Fv
+- concepts/velocity.md　平均速度与瞬时速度（速度四兄弟）　别名：速度四兄弟、平均速率、瞬时速率、四速辨析、多段平均速度、匀速直线运动、速度找位移速率找路程
+- concepts/velocity-increment.md　速度增量法　别名：弹性碰撞碰后速度、等差数列、v共加公差、双守恒快算
+- concepts/velocity-selector-mhd-flowmeter.md　速度选择器、磁流体发电机与电磁流量计　别名：速度选择器、磁流体发电机、电磁流量计、qvB=Eq、v=E/B、流量 Q=Sv
+- concepts/vertical-circle-arch-bridge.md　竖直圆拱桥模型　别名：拱桥模型、凸形桥、凹形路面、安全速度、无压力速度、车对桥的压力
+- concepts/vertical-circle-energy.md　竖直圆过程分析（动能定理加牛二）　别名：动能定理做串联牛二律求速度、力径减半得动能、最高点最低点压力差、竖直圆动能定理
+- concepts/vertical-circle-rod-tube.md　竖直圆杆模型与管道模型　别名：轻杆模型、管道模型、杆拉还是顶、杆=绳+桥、最高点最小速度为0、内壁外壁
+- concepts/vertical-circle-rope.md　竖直圆绳模型　别名：绳球模型、圆轨道内侧、水流星、恰好过最高点、恰好能做圆周运动、最高点最小速度√gR、圆环轨道模型
+- concepts/vertical-throw.md　竖直上抛　别名：竖直上抛运动、对称性、速度对称、时间对称、全程法、分段法、两次经过同一点
+- concepts/vibration-graph.md　振动图像与表达式　别名：振动图、x-t 图、位移时间图像、x=Asinωt、振动方程、振动的路程、4A 2A、上下坡（振动图）
+- concepts/wave-diffraction.md　波的衍射　别名：衍射、明显衍射条件、闻其声不见其人
+- concepts/wave-interference.md　波的干涉与干涉条件　别名：干涉、相干波、干涉图样、加强区减弱区、频率相同相位差恒定、主动降噪
+- concepts/wave-multiple-solutions.md　机械波的多解性　别名：基于时间的多解性、基于距离的多解性、nT、nλ、传播方向不确定分类讨论、n 的取值
+- concepts/wave-particle-duality.md　波粒二象性与概率波　别名：光的波粒二象性、光的本性、概率波、个别光子与大量光子
+- concepts/wave-periodicity.md　波的周期重复性与时空转换　别名：长时间远距离问题、扔掉整周期整波长、时空转换、传播 xT 等价于传播 xλ、相距 nλ 振动相同、相距半波长振动相反
+- concepts/wave-speed-wavelength-period.md　波的周期、波长与波速　别名：v=λ/T、λ=vT、波速由介质决定、周期由波源决定、变介质周期不变
+- concepts/wave-start-direction.md　起振方向　别名：波源起振方向、末端点补一段波形、开始振动的方向
+- concepts/wave-superposition.md　波的独立传播与叠加　别名：独立传播原理、叠加原理、位移矢量和、平移法画叠加波形、两列波相遇
+- concepts/wave-vibration-graph-combo.md　波形图与振动图综合　别名：两图综合、三步法、照片与视频、振动图是哪个点、波的路程与质点的路程
+- concepts/waveform-graph.md　波形图　别名：波的图像、照片、横坐标是平衡位置、波峰波谷
+- concepts/whole-method.md　整体法　别名：整体隔离法、隔离法、系统、内力与外力、选系统
+- concepts/work.md　功（定义、正负与计算）　别名：做功、W=Fxcosθ、正功负功、克服某力做功、垂直无功、合力做功、一对相互作用力做功、功是标量
+- concepts/work-energy-relations.md　功能关系　别名：三大功能关系、四大功能关系、账户比喻、W合=ΔEk、W势能力=-ΔEp、W其他力=ΔE机、做功是能量转移
+- concepts/x-t-graph.md　x-t图　别名：位移时间图像、位置时间图像、s-t图、x-t图斜率
+- concepts/zero-point-ratio.md　零点推论（初速度为零的比例式）　别名：1:3:5:7、1:√2:√3、等时划分、等距划分、一份法、初速度为零的匀加速比例
+- concepts/zero-v-zero.md　0v0模型　别名：先匀加速后匀减速、腾讯阿里是对家、x、t、a关系、最大速度vm
+
+## 每一讲（367 讲）
+
+- lessons/bixiu1-01.md　必修1 第1讲 质点（基础课）
+- lessons/bixiu1-02.md　必修1 第2讲 参考系（基础课）
+- lessons/bixiu1-03.md　必修1 第3讲 时间与时刻（基础课）
+- lessons/bixiu1-04.md　必修1 第4讲 矢量与标量（基础课）
+- lessons/bixiu1-05.md　必修1 第5讲 位移和路程（基础课）
+- lessons/bixiu1-06.md　必修1 第6讲 速度四兄弟（基础课）
+- lessons/bixiu1-07.md　必修1 第7讲 多段平均速度问题（题型技巧课）
+- lessons/bixiu1-08.md　必修1 第8讲 速度变化量（基础课）
+- lessons/bixiu1-09.md　必修1 第9讲 加速度（基础课）
+- lessons/bixiu1-10.md　必修1 第10讲 加减速判断（基础课）
+- lessons/bixiu1-11.md　必修1 第11讲 x-t图-基础篇（基础课）
+- lessons/bixiu1-12.md　必修1 第12讲 x-t图-进阶篇（基础课）
+- lessons/bixiu1-13.md　必修1 第13讲 v-t图-基础篇（基础课）
+- lessons/bixiu1-14.md　必修1 第14讲 v-t图-进阶篇（基础课）
+- lessons/bixiu1-15.md　必修1 第15讲 匀变速直线运动基本公式（基础课）
+- lessons/bixiu1-16.md　必修1 第16讲 公式选取技巧（基础课）
+- lessons/bixiu1-17.md　必修1 第17讲 刹车问题（题型技巧课）
+- lessons/bixiu1-18.md　必修1 第18讲 0v0模型（题型技巧课）
+- lessons/bixiu1-19.md　必修1 第19讲 均速法（题型技巧课）
+- lessons/bixiu1-20.md　必修1 第20讲 位移差公式（题型技巧课）
+- lessons/bixiu1-21.md　必修1 第21讲 探究小车速度随时间变化的规律（基础课）
+- lessons/bixiu1-22.md　必修1 第22讲 零点推论（题型技巧课）
+- lessons/bixiu1-23.md　必修1 第23讲 自由落体（基础课）
+- lessons/bixiu1-24.md　必修1 第24讲 自由落体比例问题（题型技巧课）
+- lessons/bixiu1-25.md　必修1 第25讲 自由落体高度差问题（题型技巧课）
+- lessons/bixiu1-26.md　必修1 第26讲 竖直上抛-基础篇（基础课）
+- lessons/bixiu1-27.md　必修1 第27讲 竖直上抛-进阶篇（题型技巧课）
+- lessons/bixiu1-28.md　必修1 第28讲 追及相遇-相遇时间计算（题型技巧课）
+- lessons/bixiu1-29.md　必修1 第29讲 追及相遇-距离最值与相遇次数（题型技巧课）
+- lessons/bixiu1-30.md　必修1 第30讲 追及相遇图像问题（题型技巧课）
+- lessons/bixiu1-31.md　必修1 第31讲 静力学分析思维框架（基础课）
+- lessons/bixiu1-32.md　必修1 第32讲 力的概念和重力（基础课）
+- lessons/bixiu1-33.md　必修1 第33讲 弹力概念及方向分析（基础课）
+- lessons/bixiu1-34.md　必修1 第34讲 弹力有无判断（题型技巧课）
+- lessons/bixiu1-35.md　必修1 第35讲 胡克定律（基础课）
+- lessons/bixiu1-36.md　必修1 第36讲 弹簧两次受力问题（题型技巧课）
+- lessons/bixiu1-37.md　必修1 第37讲 探究弹力与弹簧伸长的关系（基础课）
+- lessons/bixiu1-38.md　必修1 第38讲 滑动摩擦力（基础课）
+- lessons/bixiu1-39.md　必修1 第39讲 静摩擦力（基础课）
+- lessons/bixiu1-40.md　必修1 第40讲 摩擦力方向分析（题型技巧课）
+- lessons/bixiu1-41.md　必修1 第41讲 受力分析（基础课）
+- lessons/bixiu1-42.md　必修1 第42讲 牛顿第三定律（基础课）
+- lessons/bixiu1-43.md　必修1 第43讲 整体法分析多物体受力（题型技巧课）
+- lessons/bixiu1-44.md　必修1 第44讲 力的合成（基础课）
+- lessons/bixiu1-45.md　必修1 第45讲 验证平行四边形定则（基础课）
+- lessons/bixiu1-46.md　必修1 第46讲 等大力合成与多力合成（题型技巧课）
+- lessons/bixiu1-47.md　必修1 第47讲 合力范围问题（题型技巧课）
+- lessons/bixiu1-48.md　必修1 第48讲 力的分解（基础课）
+- lessons/bixiu1-49.md　必修1 第49讲 正交分解（基础课）
+- lessons/bixiu1-50.md　必修1 第50讲 静态平衡问题分析步骤（题型技巧课）
+- lessons/bixiu1-51.md　必修1 第51讲 斜面平衡分析（题型技巧课）
+- lessons/bixiu1-52.md　必修1 第52讲 三力平衡分析（题型技巧课）
+- lessons/bixiu1-53.md　必修1 第53讲 绳杆分析（题型技巧课）
+- lessons/bixiu1-54.md　必修1 第54讲 动态平衡-上（题型技巧课）
+- lessons/bixiu1-55.md　必修1 第55讲 动态平衡-中（题型技巧课）
+- lessons/bixiu1-56.md　必修1 第56讲 动态平衡-下（题型技巧课）
+- lessons/bixiu1-57.md　必修1 第57讲 动力学分析思维框架（基础课）
+- lessons/bixiu1-58.md　必修1 第58讲 牛顿第一定律、力学单位制（基础课）
+- lessons/bixiu1-59.md　必修1 第59讲 牛顿第二定律（基础课）
+- lessons/bixiu1-60.md　必修1 第60讲 探究加速度与力、质量的关系（基础课）
+- lessons/bixiu1-61.md　必修1 第61讲 牛顿第二定律两类问题（基础课）
+- lessons/bixiu1-62.md　必修1 第62讲 牛二律分析多过程问题（基础课）
+- lessons/bixiu1-63.md　必修1 第63讲 超重与失重（基础课）
+- lessons/bixiu1-64.md　必修1 第64讲 突变问题（题型技巧课）
+- lessons/bixiu1-65.md　必修1 第65讲 等时圆问题（题型技巧课）
+- lessons/bixiu1-66.md　必修1 第66讲 内力公式-基础篇（题型技巧课）
+- lessons/bixiu1-67.md　必修1 第67讲 内力公式-进阶篇（题型技巧课）
+- lessons/bixiu1-68.md　必修1 第68讲 对系统列牛顿第二定律（题型技巧课）
+- lessons/bixiu1-69.md　必修1 第69讲 加减速分析+终端速度问题（题型技巧课）
+- lessons/bixiu1-70.md　必修1 第70讲 小球落弹簧（基础课）
+- lessons/bixiu1-71.md　必修1 第71讲 弹簧分离问题（题型技巧课）
+- lessons/bixiu1-72.md　必修1 第72讲 板块问题·基础篇（题型技巧课）
+- lessons/bixiu1-73.md　必修1 第73讲 板块问题-进阶篇（题型技巧课）
+- lessons/bixiu1-74.md　必修1 第74讲 传送带问题-基础篇（题型技巧课）
+- lessons/bixiu1-75.md　必修1 第75讲 传送带问题·进阶篇（题型技巧课）
+- lessons/bixiu2-01.md　必修2 第1讲 曲线运动（基础课）
+- lessons/bixiu2-02.md　必修2 第2讲 运动的合成与分解（基础课）
+- lessons/bixiu2-03.md　必修2 第3讲 两直线运动的合成（题型技巧课）
+- lessons/bixiu2-04.md　必修2 第4讲 小船过河（题型技巧课）
+- lessons/bixiu2-05.md　必修2 第5讲 关联速度问题（题型技巧课）
+- lessons/bixiu2-06.md　必修2 第6讲 平抛运动（基础课）
+- lessons/bixiu2-07.md　必修2 第7讲 平抛轨迹比较（题型技巧课）
+- lessons/bixiu2-08.md　必修2 第8讲 平抛重要推论（题型技巧课）
+- lessons/bixiu2-09.md　必修2 第9讲 斜面平抛角度推论（题型技巧课）
+- lessons/bixiu2-10.md　必修2 第10讲 斜面平抛比例问题（题型技巧课）
+- lessons/bixiu2-11.md　必修2 第11讲 平抛临界（题型技巧课）
+- lessons/bixiu2-12.md　必修2 第12讲 类平抛（题型技巧课）
+- lessons/bixiu2-13.md　必修2 第13讲 斜抛（题型技巧课）
+- lessons/bixiu2-14.md　必修2 第14讲 圆周运动（基础课）
+- lessons/bixiu2-15.md　必修2 第15讲 列表法解传动问题（题型技巧课）
+- lessons/bixiu2-16.md　必修2 第16讲 圆周运动多解问题（题型技巧课）
+- lessons/bixiu2-17.md　必修2 第17讲 向心力（基础课）
+- lessons/bixiu2-18.md　必修2 第18讲 向心加速度（基础课）
+- lessons/bixiu2-19.md　必修2 第19讲 圆锥摆（题型技巧课）
+- lessons/bixiu2-20.md　必修2 第20讲 圆盘模型（题型技巧课）
+- lessons/bixiu2-21.md　必修2 第21讲 火车转弯（题型技巧课）
+- lessons/bixiu2-22.md　必修2 第22讲 竖直圆绳模型（题型技巧课）
+- lessons/bixiu2-23.md　必修2 第23讲 拱桥模型（题型技巧课）
+- lessons/bixiu2-24.md　必修2 第24讲 竖直圆杆模型（题型技巧课）
+- lessons/bixiu2-25.md　必修2 第25讲 开普勒三定律（基础课）
+- lessons/bixiu2-26.md　必修2 第26讲 万有引力定律（基础课）
+- lessons/bixiu2-27.md　必修2 第27讲 割补法与球壳模型（题型技巧课）
+- lessons/bixiu2-28.md　必修2 第28讲 万有引力与重力的关系（基础课）
+- lessons/bixiu2-29.md　必修2 第29讲 天体核心物理量的计算（基础课）
+- lessons/bixiu2-30.md　必修2 第30讲 天体比例问题（题型技巧课）
+- lessons/bixiu2-31.md　必修2 第31讲 卫星比较问题（题型技巧课）
+- lessons/bixiu2-32.md　必修2 第32讲 黄金代换（题型技巧课）
+- lessons/bixiu2-33.md　必修2 第33讲 天体+抛体综合（题型技巧课）
+- lessons/bixiu2-34.md　必修2 第34讲 天体质量密度计算（题型技巧课）
+- lessons/bixiu2-35.md　必修2 第35讲 可求解问题（题型技巧课）
+- lessons/bixiu2-36.md　必修2 第36讲 拉格朗日点（题型技巧课）
+- lessons/bixiu2-37.md　必修2 第37讲 卫星追及相遇问题（题型技巧课）
+- lessons/bixiu2-38.md　必修2 第38讲 双星模型（题型技巧课）
+- lessons/bixiu2-39.md　必修2 第39讲 宇宙速度（基础课）
+- lessons/bixiu2-40.md　必修2 第40讲 近地卫星与同步卫星（基础课）
+- lessons/bixiu2-41.md　必修2 第41讲 三兄弟比较问题（题型技巧课）
+- lessons/bixiu2-42.md　必修2 第42讲 卫星变轨（题型技巧课）
+- lessons/bixiu2-43.md　必修2 第43讲 功（基础课）
+- lessons/bixiu2-44.md　必修2 第44讲 重力做功和摩擦力做功（基础课）
+- lessons/bixiu2-45.md　必修2 第45讲 等效法解斜面摩擦力做功（题型技巧课）
+- lessons/bixiu2-46.md　必修2 第46讲 功率（基础课）
+- lessons/bixiu2-47.md　必修2 第47讲 机车启动（题型技巧课）
+- lessons/bixiu2-48.md　必修2 第48讲 重力势能与弹性势能（基础课）
+- lessons/bixiu2-49.md　必修2 第49讲 动能和动能定理（基础课）
+- lessons/bixiu2-50.md　必修2 第50讲 动能定理搞定变力做功（题型技巧课）
+- lessons/bixiu2-51.md　必修2 第51讲 动能定理搞定多过程问题（题型技巧课）
+- lessons/bixiu2-52.md　必修2 第52讲 动能定理搞定竖直圆（题型技巧课）
+- lessons/bixiu2-53.md　必修2 第53讲 动能-位移图像（题型技巧课）
+- lessons/bixiu2-54.md　必修2 第54讲 机械能（基础课）
+- lessons/bixiu2-55.md　必修2 第55讲 功能关系（基础课）
+- lessons/bixiu2-56.md　必修2 第56讲 机械能守恒定律（基础课）
+- lessons/bixiu2-57.md　必修2 第57讲 小球落弹簧能量分析（题型技巧课）
+- lessons/bixiu2-58.md　必修2 第58讲 多物体机械能守恒（题型技巧课）
+- lessons/bixiu2-59.md　必修2 第59讲 非质点机械能守恒（题型技巧课）
+- lessons/bixiu2-60.md　必修2 第60讲 能量守恒定律（基础课）
+- lessons/bixiu2-61.md　必修2 第61讲 板块能量分析（题型技巧课）
+- lessons/bixiu2-62.md　必修2 第62讲 传送带能量分析（题型技巧课）
+- lessons/bixiu3-01.md　必修3 第1讲 电荷量、元电荷、电荷守恒（基础课）
+- lessons/bixiu3-02.md　必修3 第2讲 起电与验电器（基础课）
+- lessons/bixiu3-03.md　必修3 第3讲 库仑定律（基础课）
+- lessons/bixiu3-04.md　必修3 第4讲 库仑力平衡问题（题型技巧课）
+- lessons/bixiu3-05.md　必修3 第5讲 三点电荷平衡问题（题型技巧课）
+- lessons/bixiu3-06.md　必修3 第6讲 电摆问题（题型技巧课）
+- lessons/bixiu3-07.md　必修3 第7讲 电场和电场强度（基础课）
+- lessons/bixiu3-08.md　必修3 第8讲 点电荷电场和场强叠加（基础课）
+- lessons/bixiu3-09.md　必修3 第9讲 挖补法求解场强叠加（题型技巧课）
+- lessons/bixiu3-10.md　必修3 第10讲 电场线与匀强电场（基础课）
+- lessons/bixiu3-11.md　必修3 第11讲 匀强场中的动力学分析（题型技巧课）
+- lessons/bixiu3-12.md　必修3 第12讲 电场力做功（基础课）
+- lessons/bixiu3-13.md　必修3 第13讲 电势能与功能关系（基础课）
+- lessons/bixiu3-14.md　必修3 第14讲 电势（基础课）
+- lessons/bixiu3-15.md　必修3 第15讲 电势差与等势面（基础课）
+- lessons/bixiu3-16.md　必修3 第16讲 电场所有概念融汇贯通（基础课）
+- lessons/bixiu3-17.md　必修3 第17讲 列表法解等差等势面问题（基础课，电场能量篇第 6 节，题型技巧课）
+- lessons/bixiu3-18.md　必修3 第18讲 静电平衡与等势体（基础课）
+- lessons/bixiu3-19.md　必修3 第19讲 电场功能势综合问题（题型技巧课）
+- lessons/bixiu3-20.md　必修3 第20讲 场强、电势综合问题（题型技巧课）
+- lessons/bixiu3-21.md　必修3 第21讲 电势差与场强的关系（基础课）
+- lessons/bixiu3-22.md　必修3 第22讲 三点法求场强（题型技巧课）
+- lessons/bixiu3-23.md　必修3 第23讲 正交法求场强（题型技巧课）
+- lessons/bixiu3-24.md　必修3 第24讲 电场线综合问题（题型技巧课）
+- lessons/bixiu3-25.md　必修3 第25讲 等势面综合问题（题型技巧课）
+- lessons/bixiu3-26.md　必修3 第26讲 电场线+轨迹问题（题型技巧课）
+- lessons/bixiu3-27.md　必修3 第27讲 等势面+轨迹问题（题型技巧课）
+- lessons/bixiu3-28.md　必修3 第28讲 等量异种电荷电场分析（题型技巧课）
+- lessons/bixiu3-29.md　必修3 第29讲 等量同种电荷电场分析（题型技巧课）
+- lessons/bixiu3-30.md　必修3 第30讲 电容器（基础课）
+- lessons/bixiu3-31.md　必修3 第31讲 电容器动态分析·基础篇（题型技巧课）
+- lessons/bixiu3-32.md　必修3 第32讲 电容器动态分析-进阶篇（题型技巧课）
+- lessons/bixiu3-33.md　必修3 第33讲 带电粒子在匀强场中的运动（基础课）
+- lessons/bixiu3-34.md　必修3 第34讲 示波器（题型技巧课）
+- lessons/bixiu3-35.md　必修3 第35讲 示波器图像问题（题型技巧课）
+- lessons/bixiu3-36.md　必修3 第36讲 带电粒子在周期场中的运动（题型技巧课）
+- lessons/bixiu3-37.md　必修3 第37讲 电场+重力场+上抛（题型技巧课）
+- lessons/bixiu3-38.md　必修3 第38讲 电场+重力场+竖直圆（题型技巧课）
+- lessons/bixiu3-39.md　必修3 第39讲 φ-x图像（题型技巧课）
+- lessons/bixiu3-40.md　必修3 第40讲 E-x图像（题型技巧课）
+- lessons/bixiu3-41.md　必修3 第41讲 电流（基础课）
+- lessons/bixiu3-42.md　必修3 第42讲 电流微观表达式（题型技巧课）
+- lessons/bixiu3-43.md　必修3 第43讲 电阻（基础课）
+- lessons/bixiu3-44.md　必修3 第44讲 电阻定律（基础课）
+- lessons/bixiu3-45.md　必修3 第45讲 电源与电动势（基础课）
+- lessons/bixiu3-46.md　必修3 第46讲 闭合电路欧姆定律-基础篇（基础课）
+- lessons/bixiu3-47.md　必修3 第47讲 闭合电路欧姆定律-进阶篇（基础课）
+- lessons/bixiu3-48.md　必修3 第48讲 路端电压-电流关系图像（基础课）
+- lessons/bixiu3-49.md　必修3 第49讲 含电容器的电路分析（题型技巧课）
+- lessons/bixiu3-50.md　必修3 第50讲 电路动态分析（题型技巧课）
+- lessons/bixiu3-51.md　必修3 第51讲 串并联电路电功率计算（题型技巧课）
+- lessons/bixiu3-52.md　必修3 第52讲 电动机（基础课）
+- lessons/bixiu3-53.md　必修3 第53讲 电源的功率与效率（基础课）
+- lessons/bixiu3-54.md　必修3 第54讲 最大功率问题（题型技巧课）
+- lessons/bixiu3-55.md　必修3 第55讲 常见仪器读数总结（基础课）
+- lessons/bixiu3-56.md　必修3 第56讲 内外接选择（基础课）
+- lessons/bixiu3-57.md　必修3 第57讲 分压限流选择（基础课）
+- lessons/bixiu3-58.md　必修3 第58讲 电表量程选择与实物图连接（基础课）
+- lessons/bixiu3-59.md　必修3 第59讲 电表改装与校准（基础课）
+- lessons/bixiu3-60.md　必修3 第60讲 多用电表-欧姆表原理（基础课）
+- lessons/bixiu3-61.md　必修3 第61讲 多用电表-步骤和读数（基础课）
+- lessons/bixiu3-62.md　必修3 第62讲 伏安法测电阻率（基础课）
+- lessons/bixiu3-63.md　必修3 第63讲 描绘小灯泡的伏安特性线-上（基础课）
+- lessons/bixiu3-64.md　必修3 第64讲 描绘小灯泡的伏安特性线-下（基础课）
+- lessons/bixiu3-65.md　必修3 第65讲 伏安法测电源电动势及内阻（基础课）
+- lessons/bixiu3-66.md　必修3 第66讲 磁场、磁感线（基础课）
+- lessons/bixiu3-67.md　必修3 第67讲 安培定则（基础课）
+- lessons/bixiu3-68.md　必修3 第68讲 磁感应强度和安培力（基础课）
+- lessons/bixiu3-69.md　必修3 第69讲 左手定则（基础课）
+- lessons/bixiu3-70.md　必修3 第70讲 安培力的计算-基础篇（基础课）
+- lessons/bixiu3-71.md　必修3 第71讲 安培力的计算-进阶篇（基础课）
+- lessons/bixiu3-72.md　必修3 第72讲 磁场叠加问题（题型技巧课）
+- lessons/bixiu3-73.md　必修3 第73讲 环形电流问题（题型技巧课）
+- lessons/bixiu3-74.md　必修3 第74讲 洛伦兹力（基础课）
+- lessons/bixiu3-75.md　必修3 第75讲 带电粒子在匀强磁场中的运动（基础课）
+- lessons/bixiu3-76.md　必修3 第76讲 磁场轨迹问题-基础篇（基础课）
+- lessons/bixiu3-77.md　必修3 第77讲 磁场轨迹问题-进阶篇（基础课）
+- lessons/bixiu3-78.md　必修3 第78讲 弦长公式（题型技巧课）
+- lessons/bixiu3-79.md　必修3 第79讲 磁场临界问题-放缩圆（题型技巧课）
+- lessons/bixiu3-80.md　必修3 第80讲 磁场临界问题-旋转圆（题型技巧课）
+- lessons/bixiu3-81.md　必修3 第81讲 圆形磁场最小面积问题（题型技巧课）
+- lessons/bixiu3-82.md　必修3 第82讲 叠加场中的直线和圆周运动（基础课）
+- lessons/bixiu3-83.md　必修3 第83讲 速度选择器、磁流体发电机和电磁流量计（题型技巧课）
+- lessons/bixiu3-84.md　必修3 第84讲 霍尔效应（题型技巧课）
+- lessons/bixiu3-85.md　必修3 第85讲 质谱仪（题型技巧课）
+- lessons/bixiu3-86.md　必修3 第86讲 回旋加速器（题型技巧课）
+- lessons/bixiu3-87.md　必修3 第87讲 类平抛电场+磁场（题型技巧课）
+- lessons/dianci-00.md　电磁感应 说明视频 关于「安培力与洛伦兹力」系统课的说明
+- lessons/dianci-01.md　电磁感应 第1讲 磁通量-基础篇（基础课）
+- lessons/dianci-02.md　电磁感应 第2讲 磁通量-进阶篇（基础课）
+- lessons/dianci-03.md　电磁感应 第3讲 感应电流产生的条件（基础课）
+- lessons/dianci-04.md　电磁感应 第4讲 楞次定律-基础篇（基础课）
+- lessons/dianci-05.md　电磁感应 第5讲 楞次定律-进阶篇（基础课）
+- lessons/dianci-06.md　电磁感应 第6讲 双圈问题（题型技巧课）
+- lessons/dianci-07.md　电磁感应 第7讲 法拉第电磁感应定律（基础课）
+- lessons/dianci-08.md　电磁感应 第8讲 感生电动势（基础课）
+- lessons/dianci-09.md　电磁感应 第9讲 动生电动势（基础课）
+- lessons/dianci-10.md　电磁感应 第10讲 感应电动势+电路分析（题型技巧课）
+- lessons/dianci-11.md　电磁感应 第11讲 旋转切割和圆盘模型（题型技巧课）
+- lessons/dianci-12.md　电磁感应 第12讲 无外力单棒（题型技巧课）
+- lessons/dianci-13.md　电磁感应 第13讲 恒力单棒（题型技巧课）
+- lessons/dianci-14.md　电磁感应 第14讲 恒加速度单棒（题型技巧课）
+- lessons/dianci-15.md　电磁感应 第15讲 单棒求焦耳热（题型技巧课）
+- lessons/dianci-16.md　电磁感应 第16讲 单棒求电荷量、位移（题型技巧课）
+- lessons/dianci-17.md　电磁感应 第17讲 动量定理求单棒电荷量、位移、时间（题型技巧课）
+- lessons/dianci-18.md　电磁感应 第18讲 单棒大题专练（题型技巧课）
+- lessons/dianci-19.md　电磁感应 第19讲 有电源的单棒（题型技巧课）
+- lessons/dianci-20.md　电磁感应 第20讲 有电容器的单棒（题型技巧课）
+- lessons/dianci-21.md　电磁感应 第21讲 角形导轨（题型技巧课）
+- lessons/dianci-22.md　电磁感应 第22讲 无外力双棒·基础篇（题型技巧课）
+- lessons/dianci-23.md　电磁感应 第23讲 无外力双棒-进阶篇（题型技巧课）
+- lessons/dianci-24.md　电磁感应 第24讲 无外力不等距双棒（题型技巧课）
+- lessons/dianci-25.md　电磁感应 第25讲 恒力双棒（题型技巧课）
+- lessons/dianci-26.md　电磁感应 第26讲 匀速线框（题型技巧课）
+- lessons/dianci-27.md　电磁感应 第27讲 无外力线框（题型技巧课）
+- lessons/dianci-28.md　电磁感应 第28讲 恒力线框（题型技巧课）
+- lessons/dianci-29.md　电磁感应 第29讲 线框落磁场恰好匀速问题（题型技巧课）
+- lessons/dianci-30.md　电磁感应 第30讲 排除法搞定i-t图像问题（题型技巧课）
+- lessons/dianci-31.md　电磁感应 第31讲 分析法搞定i-t图像问题（题型技巧课）
+- lessons/dianci-32.md　电磁感应 第32讲 涡流与电磁阻尼（基础课）
+- lessons/dianci-33.md　电磁感应 第33讲 串并联电路自感分析（题型技巧课）
+- lessons/dianci-34.md　电磁感应 第34讲 混联电路自感分析（题型技巧课）
+- lessons/dongliang-01.md　动量 第1讲 动量（基础课）
+- lessons/dongliang-02.md　动量 第2讲 动量定理和冲量（基础课）
+- lessons/dongliang-03.md　动量 第3讲 下落缓冲问题（题型技巧课）
+- lessons/dongliang-04.md　动量 第4讲 F-t图像、f=kv（题型技巧课）
+- lessons/dongliang-05.md　动量 第5讲 水柱冲击问题（题型技巧课）
+- lessons/dongliang-06.md　动量 第6讲 动量守恒定律-上（基础课）
+- lessons/dongliang-07.md　动量 第7讲 动量守恒定律（下）（基础课）
+- lessons/dongliang-08.md　动量 第8讲 反冲问题·基础篇（题型技巧课）
+- lessons/dongliang-09.md　动量 第9讲 反冲问题·进阶篇（题型技巧课）
+- lessons/dongliang-10.md　动量 第10讲 人船模型（题型技巧课）
+- lessons/dongliang-11.md　动量 第11讲 碰撞分类与核心方程（基础课）
+- lessons/dongliang-12.md　动量 第12讲 折合质量法（基础课）
+- lessons/dongliang-13.md　动量 第13讲 速度增量法（基础课）
+- lessons/dongliang-14.md　动量 第14讲 可能性问题（题型技巧课）
+- lessons/dongliang-15.md　动量 第15讲 子弹打木块·基础篇（题型技巧课）
+- lessons/dongliang-16.md　动量 第16讲 子弹打木块·进阶篇（题型技巧课）
+- lessons/dongliang-17.md　动量 第17讲 板块模型-基础篇（题型技巧课）
+- lessons/dongliang-18.md　动量 第18讲 板块模型·进阶篇（题型技巧课）
+- lessons/dongliang-19.md　动量 第19讲 弹簧模型·基础篇（题型技巧课）
+- lessons/dongliang-20.md　动量 第20讲 弹簧模型·进阶篇（题型技巧课）
+- lessons/dongliang-21.md　动量 第21讲 圆弧轨道模型·基础篇（题型技巧课）
+- lessons/dongliang-22.md　动量 第22讲 圆弧轨道模型·进阶篇（题型技巧课）
+- lessons/guang-01.md　光 第1讲 光的反射与折射（基础课）
+- lessons/guang-02.md　光 第2讲 平行玻璃砖、圆柱体、三棱镜折射问题（题型技巧课）
+- lessons/guang-03.md　光 第3讲 测定玻璃的折射率（基础课）
+- lessons/guang-04.md　光 第4讲 光的色散（基础课）
+- lessons/guang-05.md　光 第5讲 光的全反射（基础课）
+- lessons/guang-06.md　光 第6讲 折射+全反射综合问题（题型技巧课）
+- lessons/guang-07.md　光 第7讲 光的双缝干涉（基础课）
+- lessons/guang-08.md　光 第8讲 用双缝干涉测量光的波长（基础课）
+- lessons/guang-09.md　光 第9讲 光的薄膜干涉（基础课）
+- lessons/guang-10.md　光 第10讲 光的衍射、偏振、电磁波谱（基础课）
+- lessons/jiaobian-01.md　交变电流 第1讲 正余弦交流电（基础课）
+- lessons/jiaobian-02.md　交变电流 第2讲 交流电 i-t 图·基础篇（题型技巧课）
+- lessons/jiaobian-03.md　交变电流 第3讲 交流电 i-t 图·进阶篇（题型技巧课）
+- lessons/jiaobian-04.md　交变电流 第4讲 交流电 Φ-t 图（题型技巧课）
+- lessons/jiaobian-05.md　交变电流 第5讲 交流电的四值（基础课）
+- lessons/jiaobian-06.md　交变电流 第6讲 方均根法求有效值（题型技巧课）
+- lessons/jiaobian-07.md　交变电流 第7讲 感抗和容抗（基础课）
+- lessons/jiaobian-08.md　交变电流 第8讲 LC振荡电路（基础课）
+- lessons/jiaobian-09.md　交变电流 第9讲 变压器的构造和性质（基础课）
+- lessons/jiaobian-10.md　交变电流 第10讲 自耦变压器和互感器（基础课）
+- lessons/jiaobian-11.md　交变电流 第11讲 多副线圈变压器（基础课）
+- lessons/jiaobian-12.md　交变电流 第12讲 变匝数问题（题型技巧课）
+- lessons/jiaobian-13.md　交变电流 第13讲 变压器+电路综合问题（题型技巧课）
+- lessons/jiaobian-14.md　交变电流 第14讲 原线圈电路有电阻问题（题型技巧课）
+- lessons/jiaobian-15.md　交变电流 第15讲 带变压器的电路动态分析（题型技巧课）
+- lessons/jiaobian-16.md　交变电流 第16讲 远距离输电（题型技巧课）
+- lessons/jindai-01.md　近代物理 第1讲 黑体辐射和能量子（基础课）
+- lessons/jindai-02.md　近代物理 第2讲 光电效应（基础课）
+- lessons/jindai-03.md　近代物理 第3讲 光电管电路分析（题型技巧课）
+- lessons/jindai-04.md　近代物理 第4讲 光电效应图像分析（题型技巧课）
+- lessons/jindai-05.md　近代物理 第5讲 波粒二象性（基础课）
+- lessons/jindai-06.md　近代物理 第6讲 原子的核式结构（基础课）
+- lessons/jindai-07.md　近代物理 第7讲 氢原子光谱和玻尔的原子模型（基础课）
+- lessons/jindai-08.md　近代物理 第8讲 跃迁频率数量问题（题型技巧课）
+- lessons/jindai-09.md　近代物理 第9讲 原子核的组成和三种射线（基础课）
+- lessons/jindai-10.md　近代物理 第10讲 衰变和半衰期（基础课）
+- lessons/jindai-11.md　近代物理 第11讲 反冲核在磁场中的运动（题型技巧课）
+- lessons/jindai-12.md　近代物理 第12讲 四种核反应方程（基础课）
+- lessons/jindai-13.md　近代物理 第13讲 质能方程、质量亏损和比结合能（基础课）
+- lessons/jixiebo-01.md　机械波 第1讲 波的产生和传播规律（基础课）
+- lessons/jixiebo-02.md　机械波 第2讲 波形图（基础课）
+- lessons/jixiebo-03.md　机械波 第3讲 同侧法判断波振方向（题型技巧课）
+- lessons/jixiebo-04.md　机械波 第4讲 长时间、远距离问题（题型技巧课）
+- lessons/jixiebo-05.md　机械波 第5讲 波形图+振动图综合问题（题型技巧课）
+- lessons/jixiebo-06.md　机械波 第6讲 基于时间的多解性问题（题型技巧课）
+- lessons/jixiebo-07.md　机械波 第7讲 基于距离的多解性问题（题型技巧课）
+- lessons/jixiebo-08.md　机械波 第8讲 波的独立传播、叠加（基础课）
+- lessons/jixiebo-09.md　机械波 第9讲 波的干涉（基础课）
+- lessons/jixiebo-10.md　机械波 第10讲 加强、减弱点判断（题型技巧课）
+- lessons/jixiebo-11.md　机械波 第11讲 波的衍射、多普勒效应（基础课）
+- lessons/rexue-01.md　热学 第1讲 摩尔类计算问题（题型技巧课）
+- lessons/rexue-02.md　热学 第2讲 用油膜法估测油酸分子的大小（基础课）
+- lessons/rexue-03.md　热学 第3讲 扩散现象、布朗运动（基础课）
+- lessons/rexue-04.md　热学 第4讲 分子运动速率分布规律（基础课）
+- lessons/rexue-05.md　热学 第5讲 分子作用力、动能、势能、内能（基础课）
+- lessons/rexue-06.md　热学 第6讲 分子作用力、势能图像问题（题型技巧课）
+- lessons/rexue-07.md　热学 第7讲 热力学第一定律（基础课）
+- lessons/rexue-08.md　热学 第8讲 热力学第二、三定律（基础课）
+- lessons/rexue-09.md　热学 第9讲 理想气体状态方程（基础课）
+- lessons/rexue-10.md　热学 第10讲 理想气体微观描述（基础课）
+- lessons/rexue-11.md　热学 第11讲 理想气体状态方程+热一律综合问题（题型技巧课）
+- lessons/rexue-12.md　热学 第12讲 理想气体图像问题·基础篇（题型技巧课）
+- lessons/rexue-13.md　热学 第13讲 理想气体图像问题·进阶篇（题型技巧课）
+- lessons/rexue-14.md　热学 第14讲 固体和液体（基础课）
+- lessons/rexue-15.md　热学 第15讲 气缸活塞压强分析（基础课）
+- lessons/rexue-16.md　热学 第16讲 气缸求解p、T、V（题型技巧课）
+- lessons/rexue-17.md　热学 第17讲 气缸求解ΔU、W、Q（题型技巧课）
+- lessons/rexue-18.md　热学 第18讲 双活塞气缸（题型技巧课）
+- lessons/rexue-19.md　热学 第19讲 充放气问题（题型技巧课）
+- lessons/rexue-20.md　热学 第20讲 等压双缸（题型技巧课）
+- lessons/rexue-21.md　热学 第21讲 不等压双缸（题型技巧课）
+- lessons/rexue-22.md　热学 第22讲 液柱模型核心公式+分析方法（基础课）
+- lessons/rexue-23.md　热学 第23讲 蛇形管问题（题型技巧课）
+- lessons/rexue-24.md　热学 第24讲 直管液柱大题专练（题型技巧课）
+- lessons/rexue-25.md　热学 第25讲 U型管液柱大题专练（题型技巧课）
+- lessons/rexue-26.md　热学 第26讲 液柱+气缸大题专练-上（题型技巧课）
+- lessons/rexue-27.md　热学 第27讲 液柱+气缸大题专练-下（题型技巧课）
+- lessons/zhendong-01.md　机械振动 第1讲 机械振动和简谐运动（基础课）
+- lessons/zhendong-02.md　机械振动 第2讲 振动图像（基础课）
+- lessons/zhendong-03.md　机械振动 第3讲 简谐运动对称性（题型技巧课）
+- lessons/zhendong-04.md　机械振动 第4讲 简谐运动+力学综合问题（题型技巧课）
+- lessons/zhendong-05.md　机械振动 第5讲 单摆（基础课）
+- lessons/zhendong-06.md　机械振动 第6讲 等效单摆（题型技巧课）
+- lessons/zhendong-07.md　机械振动 第7讲 超失重单摆（题型技巧课）
+- lessons/zhendong-08.md　机械振动 第8讲 用单摆测量重力加速度（基础课）
+- lessons/zhendong-09.md　机械振动 第9讲 阻尼振动和受迫振动（基础课）
